@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Инфоканал" , Инфоканал RB Play
 https://www.dropbox.com/scl/fi/55npafe13atk6104ihjce/RB-PLAY.mp4?rlkey=yg19zddene0b47gg6ykqzhwjd&st=7g3knlwt&dl=1
-#EXTINF:-1 group-title="Казахстанские",Ulytau KZ
-http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14231/index.m3u8
-#EXTINF:-1 group-title="Казахстанские",Акшам ТВ
-http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14223/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,24 KZ HD
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Astana TV
@@ -37,6 +33,10 @@ https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009344/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,ТВК 6
 https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Ulytau KZ
+http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14231/index.m3u8
+#EXTINF:-1 group-title="Казахстанские",Акшам ТВ
+http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14223/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Ertis
 https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Saryarqa
@@ -205,7 +205,7 @@ http://nashe1.hostingradio.ru:80/nashe-256
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="Радио",Радио Мир
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 group-title"Радио",Радио Звезда
+#EXTINF:-1 group-title="Радио",Радио Звезда
 https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
-#EXTINF:-1 group-title="Радио",Радио Romantica
-https://livetv-app.mylifeisgood.net.ru/channels/radioromantica.m3u8
+#EXTINF:-1 group-title="Радио",Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256

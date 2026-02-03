@@ -57,16 +57,12 @@ https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские" ,Туркестан
 https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" ,Мировое Кино HD
-https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Vip Comedy HD
 https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Yosso TV New Кино
 http://6a0296cf.edemist.com/iptv/F65BX3TKGTCBZQ/14177/index.m3u8
 #EXTINF:-1 group-title="Кино",Clarity4K Ужасы
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:-1 group-title="Кино",Наше HD
-http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино" ,FOX Life HD
 https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" ,FOX HD
@@ -85,6 +81,8 @@ https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ4
 https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Спорт" ,Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Общие",Россия К
 https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
@@ -169,14 +167,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Конный мир
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спорт" ,Матч ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт" ,Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="Спорт" ,Sport Plus Live
-https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:-1 group-title="Детям",JimJam
 http://176.118.197.125/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детям" ,Лапки LIVE

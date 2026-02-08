@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Инфоканал" , Инфоканал RB Play
+https://www.dropbox.com/scl/fi/5bw4ta1nbf2im0pus9j0n/4.mp4?rlkey=5sy76rbbs8u17jqwlxiy9nt4p&st=6r3yq8cc&dl=1
 #EXTINF:0 tvg-rec="0",BBC First HD UK
 #EXTGRP:новости
 http://xm1fytkd.alfalt.fun/iptv/9E24FGRTK54WKKWDSS5ZAF9A/19181/index.m3u8
